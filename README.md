@@ -10,4 +10,4 @@ increase its market share.
 
 Please check the PDF file `spark_individual_assignment_steffen_wohlers.pdf` for further information.
 
-I created this project as part of my Spark course during my Master in Business Analytics & Big Data at IE Business School.
+I created this project as part of my Spark course during my Master in Business Analytics & Big Data program at IE Business School.
